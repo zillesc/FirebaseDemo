@@ -23,4 +23,10 @@ public class ExampleInstrumentedTest {
 
         assertEquals("edu.illinois.firebasedemo", appContext.getPackageName());
     }
+
+    @Test
+    public void PutYourFirebaseTestsHere() throws Exception {
+        // They need to be in the Android tests file so that they can use Android services
+
+    }
 }
